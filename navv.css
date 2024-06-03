@@ -1,0 +1,80 @@
+#go {
+	color:white; 
+    padding-bottom: 20px;
+	background-color: unset;
+	padding: 30px;
+	height: 2vh;
+border-radius: unset;
+border: unset;
+font-size: 20px; 
+font-weight: bold;
+}
+#go:hover {
+	color: #fc0b03;
+}
+#togo {
+	background-color: unset;
+	color: white;
+	border: none;
+	border-radius: unset;
+	padding: 5px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+#togo:hover {
+	
+	color: #8742f5; 
+	 }
+.stylinglogo{
+	height: 90px;
+	padding-right: 40px;
+}
+.cute{ 
+	background-image:url('https://t3.ftcdn.net/jpg/03/00/40/08/240_F_300400890_gIVeecUgaknasaavuK1xYtUudTv6Qalw.jpg');
+	height: 80vh;
+	background-size: cover;
+	color: white;
+	text-align:center;
+	padding-top: 13%;
+	font-weight:bold;
+ }
+ .cute2{
+  text-align: right;
+
+ }
+ .cute4{
+	
+	background-color:unset;
+		margin: 20px;
+	border-radius: 20px;
+}
+.cute5{
+	background-image: url('https://t3.ftcdn.net/jpg/03/00/40/08/240_F_300400890_gIVeecUgaknasaavuK1xYtUudTv6Qalw.jpg');
+     height: 50vh;
+     background-size: cover;
+     text-align: center;
+     color: white;
+     padding-top: 13%;
+     font-weight: bold;
+ }
+ .cute6{
+ 	text-align: center;
+ 	color: black;
+ 	padding-top: 7%;
+ }
+ .cute7{
+ 	background-color: unset;
+ 	padding-right: 10%;
+ 	padding-left: 10%;
+ 	padding-top: 4%;
+ 	
+ }
+ .cute8{
+ 	background-color: black;
+ 	padding-bottom: 10%;
+
+ }
+ 
